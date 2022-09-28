@@ -1,8 +1,8 @@
 
 ![Github Banner](assets/github-banner.png)
 
-### Hi pals <img src="assets/hello.gif" width="28px" alt="hi">
----
+### Hi fam <img src="assets/hello.gif" width="28px" alt="hi">
+--
 
 I'm Pere, a Front End Web Application Developer from  Warri, Nigeria. I Spend most of my time coding outstanding projects.
 
