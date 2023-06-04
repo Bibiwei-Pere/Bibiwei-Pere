@@ -1,7 +1,7 @@
 
 ## Hi pals! <img src="hello.gif" width="28px" alt="hi">
 
-I'm Pere, a Front End Web Application Developer from  Warri, Nigeria. I Spend most of my time coding outstanding projects.
+I'm Pere, a Frontend Web Application Developer from  Bayelsa, Nigeria. I Spend most of my time coding outstanding projects.
 
 :coffee: &emsp;Connect with me!
 
