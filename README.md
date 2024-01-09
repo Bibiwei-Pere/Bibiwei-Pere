@@ -1,7 +1,7 @@
 
 ## Hi pals! <img src="hello.gif" width="28px" alt="hi">
 
-I'm Pere, a Frontend developer from  earth. I Spend most of my time coding outstanding projects.
+I'm Pere, a Frontend developer from  earth. I spend most of my time coding outstanding projects.
 
 :coffee: &emsp; Let's connect and share ideas!
 
